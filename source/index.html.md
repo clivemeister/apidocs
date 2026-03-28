@@ -12,6 +12,7 @@ toc_footers:
   - <a href='https://github.com/lord/slate'>Docs powered by Slate</a>
 
 includes:
+  - admin_api
   - url_goal_creation
   - errors
 
